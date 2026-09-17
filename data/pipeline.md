@@ -31,4 +31,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://stripe.com/jobs/search?gh_jid=8188321 | Stripe | EMEA Chief Compliance Officer | London, Dublin | posted: 2026-09-11 | scan: tracked
 
+- [ ] https://n26.com/en-eu/careers/positions/8200842?gh_jid=8200842 | N26 | Legal Counsel Corporate & Regulatory | Berlin | posted: 2026-09-16 | scan: tracked
+
 ## Processed
