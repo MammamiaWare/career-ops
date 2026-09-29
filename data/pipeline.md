@@ -33,4 +33,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://n26.com/en-eu/careers/positions/8200842?gh_jid=8200842 | N26 | Legal Counsel Corporate & Regulatory | Berlin | posted: 2026-09-16 | scan: tracked
 
+- [ ] https://n26.com/en-eu/careers/positions/8230033?gh_jid=8230033 | N26 | Data Protection and Governance Manager | Berlin | posted: 2026-09-29 | scan: tracked
+
 ## Processed
