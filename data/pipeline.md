@@ -35,4 +35,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://n26.com/en-eu/careers/positions/8230033?gh_jid=8230033 | N26 | Data Protection and Governance Manager | Berlin | posted: 2026-09-29 | scan: tracked
 
+- [ ] https://jobs.ashbyhq.com/satispay/8421a5a6-9f0d-4a93-b46d-18d4dc75a7f7 | Satispay | Legal Counsel, Fintech - New Payments - Luxembourg | Barcelona, Spain | posted: 2026-09-29 | scan: tracked
+
 ## Processed
