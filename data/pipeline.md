@@ -39,4 +39,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/openai/e8342a83-0036-438e-807a-6e0865659179 | OpenAI | Senior Counsel, France | Paris, France | posted: 2026-10-05 | scan: tracked
 
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8258725 | Adyen | Senior Compliance Officer - Brand Integrity | Amsterdam | posted: 2026-10-06 | scan: tracked
+
 ## Processed
