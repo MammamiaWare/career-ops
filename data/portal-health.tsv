@@ -844,3 +844,17 @@ timestamp	company	status
 2026-10-13T12:31:02.907Z	Satispay	reachable
 2026-10-13T12:31:02.907Z	Scalapay	reachable
 2026-10-13T12:31:02.907Z	N26	reachable
+2026-10-14T09:58:16.463Z	Stripe	reachable
+2026-10-14T09:58:16.463Z	Workday	reachable
+2026-10-14T09:58:16.463Z	HubSpot	slug_gone
+2026-10-14T09:58:16.463Z	Intercom	reachable
+2026-10-14T09:58:16.463Z	Adyen	reachable
+2026-10-14T09:58:16.463Z	Elastic	reachable
+2026-10-14T09:58:16.463Z	Miro	reachable
+2026-10-14T09:58:16.463Z	Anthropic	reachable
+2026-10-14T09:58:16.463Z	OpenAI	reachable
+2026-10-14T09:58:16.463Z	Mistral AI	empty
+2026-10-14T09:58:16.463Z	Hugging Face	reachable
+2026-10-14T09:58:16.463Z	Satispay	reachable
+2026-10-14T09:58:16.463Z	Scalapay	reachable
+2026-10-14T09:58:16.463Z	N26	reachable
