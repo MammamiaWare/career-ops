@@ -41,4 +41,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/8258725 | Adyen | Senior Compliance Officer - Brand Integrity | Amsterdam | posted: 2026-10-06 | scan: tracked
 
+- [ ] https://jobs.ashbyhq.com/openai/88667f7f-8fd2-48fd-8067-b58f6dff4652 | OpenAI | Senior Counsel, EU Policy/Regulatory | London, UK | posted: 2026-10-24 | scan: tracked
+
 ## Processed
