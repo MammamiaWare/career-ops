@@ -43,4 +43,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://jobs.ashbyhq.com/openai/88667f7f-8fd2-48fd-8067-b58f6dff4652 | OpenAI | Senior Counsel, EU Policy/Regulatory | London, UK | posted: 2026-10-24 | scan: tracked
 
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8201457 | Adyen | AML Compliance Officer Customer Risk | Amsterdam | posted: 2026-10-28 | scan: tracked
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8201459 | Adyen | AML Compliance Officer Financial Products | Amsterdam | posted: 2026-10-28 | scan: tracked
+
 ## Processed
