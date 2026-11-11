@@ -46,4 +46,7 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/8201457 | Adyen | AML Compliance Officer Customer Risk | Amsterdam | posted: 2026-10-28 | scan: tracked
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/8201459 | Adyen | AML Compliance Officer Financial Products | Amsterdam | posted: 2026-10-28 | scan: tracked
 
+- [ ] https://jobs.ashbyhq.com/satispay/f4baa999-6fb5-4325-991d-63bce7fc26de | Satispay | Senior Regulatory Compliance Officer (Relocation to Luxembourg) | Milan, Italy | posted: 2026-11-10 | scan: tracked
+- [ ] https://n26.com/en-eu/careers/positions/8370910?gh_jid=8370910 | N26 | Senior Legal Counsel, Employment Law | Berlin | posted: 2026-11-10 | scan: tracked
+
 ## Processed
