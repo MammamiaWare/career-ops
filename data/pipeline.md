@@ -51,4 +51,6 @@ Paste job URLs below as `- [ ] {url}` then run `/career-ops pipeline`.
 
 - [ ] https://n26.com/en-eu/careers/positions/8378553?gh_jid=8378553 | N26 | Compliance Manager | Berlin | posted: 2026-11-11 | scan: tracked
 
+- [ ] https://workday.wd5.myworkdayjobs.com/Workday/job/Netherlands-Amsterdam/Associate-General-Counsel--Global-Legal-Services_JR-0110527 | Workday | Senior Manager, Legal Counsel | 2 Locations | posted: 2026-11-17 | scan: tracked
+
 ## Processed
